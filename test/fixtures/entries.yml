@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  entry_topic: MyString
+  entry_submission_date: 2014-12-20
+  volume_id: 
+
+two:
+  entry_topic: MyString
+  entry_submission_date: 2014-12-20
+  volume_id: 

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  illustration_title: MyString
+  illustration_creator_fname: MyString
+  illustration_creator_lname: MyString
+  illustration_type: MyString
+  illustration_owner: MyString
+  entry_id: 
+
+two:
+  illustration_title: MyString
+  illustration_creator_fname: MyString
+  illustration_creator_lname: MyString
+  illustration_type: MyString
+  illustration_owner: MyString
+  entry_id: 
